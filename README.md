@@ -47,17 +47,21 @@ This project is an Exploratory Data Analysis (EDA) of job postings in the UK dat
 📸 Sample Visualizations
 
 Distribution of remote vs onsite jobs
-<img width="1744" height="642" alt="image" src="https://github.com/user-attachments/assets/4c099892-5f2b-4378-8536-5fce43d68235" />
+
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/4c099892-5f2b-4378-8536-5fce43d68235" />
 
 Top employers hiring Data Analysts
-<img width="1540" height="900" alt="image" src="https://github.com/user-attachments/assets/3cfbdc6e-eec4-41c0-83ea-4c26b82bb706" />
+
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/3cfbdc6e-eec4-41c0-83ea-4c26b82bb706" />
 
 Skills demand by frequency (%)
-<img width="1310" height="936" alt="image" src="https://github.com/user-attachments/assets/06d825c6-c978-4c3d-85ee-9f76ec6cbd03" />
+
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/06d825c6-c978-4c3d-85ee-9f76ec6cbd03" />
 
 
 Skills vs salary comparison
-<img width="1260" height="922" alt="image" src="https://github.com/user-attachments/assets/3f526303-9e24-4c1e-a3be-3893c9ed3906" />
+
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/3f526303-9e24-4c1e-a3be-3893c9ed3906" />
 
 
 🚀 Learnings
